@@ -48,13 +48,13 @@ Ensure that you have the following installed:
 Open your terminal and run the following commands:
 
 ```bash
-git clone https://github.com/Ajaybb09/Vendor
+git clone https://github.com/Ajaybb09/vendorr
 cd vendor_management
 
 
 
 # Clone the Repository
-git clone https://github.com/Ajaybb09/Vendor
+git clone https://github.com/Ajaybb09/vendorr
 cd vendor_management
 
 
